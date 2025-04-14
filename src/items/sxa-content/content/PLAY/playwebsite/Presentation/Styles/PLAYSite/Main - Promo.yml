@@ -1,0 +1,60 @@
+﻿---
+ID: "385a7c97-1887-45e9-ae03-812912db70ec"
+Parent: "1ded5d1e-c4fb-4152-8e94-c2ba447b549c"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: "/sitecore/content/PLAY/playwebsite/Presentation/Styles/PLAYSite/Main - Promo"
+SharedFields:
+- ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
+  Hint: Value
+  Value: "main-promo-no-border"
+- ID: "69bb49f3-da64-4b0e-abd6-184b832ff6ab"
+  Hint: Allowed Renderings
+  Value: "{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
+Languages:
+- Language: "de-DE"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Hauptseite – Werbeaktionen
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b8833d9b-c855-44d4-be5e-02b8f3edc379"
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e42364fe-51e5-481d-9d4b-29c8efc86b4f"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "63c446b6-7957-419f-b688-11b7b7793fef"
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "メイン-プロモ"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b8833d9b-c855-44d4-be5e-02b8f3edc379"
+- Language: "zh-CN"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "主页 - Promo"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b8833d9b-c855-44d4-be5e-02b8f3edc379"

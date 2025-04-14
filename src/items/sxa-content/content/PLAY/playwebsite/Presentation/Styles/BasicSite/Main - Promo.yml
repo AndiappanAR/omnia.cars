@@ -1,0 +1,72 @@
+﻿---
+ID: "629abfad-c1e5-4d4c-ade7-8f9a194dcd1d"
+Parent: "60e00c06-48e4-4b4d-8962-f1c1320061d6"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: "/sitecore/content/PLAY/playwebsite/Presentation/Styles/BasicSite/Main - Promo"
+SharedFields:
+- ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
+  Hint: Value
+  Value: "main-promo-no-border"
+- ID: "69bb49f3-da64-4b0e-abd6-184b832ff6ab"
+  Hint: Allowed Renderings
+  Value: "{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "5b02bc8e-548c-4533-89e3-1b07ab210729"
+Languages:
+- Language: "de-DE"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "47996d5c-56f0-4800-9092-fe8e2edf9028"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Hauptseite – Werbeaktionen
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "19f5a9bc-4eaa-4220-a986-af299b9560d0"
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "54a83aed-6634-406d-ba11-e7b4df498c57"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "63c446b6-7957-419f-b688-11b7b7793fef"
+- Language: "ja-JP"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "47996d5c-56f0-4800-9092-fe8e2edf9028"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "メイン-プロモ"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "19f5a9bc-4eaa-4220-a986-af299b9560d0"
+- Language: "zh-CN"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "47996d5c-56f0-4800-9092-fe8e2edf9028"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "主页 - Promo"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "19f5a9bc-4eaa-4220-a986-af299b9560d0"

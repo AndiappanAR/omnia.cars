@@ -1,0 +1,72 @@
+﻿---
+ID: "3da2d1eb-c174-46f9-b831-bc2d09363869"
+Parent: "60e00c06-48e4-4b4d-8962-f1c1320061d6"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: "/sitecore/content/PLAY/playwebsite/Presentation/Styles/BasicSite/Main - News header"
+SharedFields:
+- ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
+  Hint: Value
+  Value: "main-news-header"
+- ID: "69bb49f3-da64-4b0e-abd6-184b832ff6ab"
+  Hint: Allowed Renderings
+  Value: "{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "5b02bc8e-548c-4533-89e3-1b07ab210729"
+Languages:
+- Language: "de-DE"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "47996d5c-56f0-4800-9092-fe8e2edf9028"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Hauptseite – Nachrichtenüberschrift
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "19f5a9bc-4eaa-4220-a986-af299b9560d0"
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4b73d4d6-cd49-4bac-b455-16532b9827fd"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3a47a5e3-e79c-48d5-9720-20f3c56525f4"
+- Language: "ja-JP"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "47996d5c-56f0-4800-9092-fe8e2edf9028"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "メイン - ニュースヘッダー"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "19f5a9bc-4eaa-4220-a986-af299b9560d0"
+- Language: "zh-CN"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "47996d5c-56f0-4800-9092-fe8e2edf9028"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "主页 - 新闻标题"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "19f5a9bc-4eaa-4220-a986-af299b9560d0"

@@ -1,0 +1,72 @@
+﻿---
+ID: "60e00c06-48e4-4b4d-8962-f1c1320061d6"
+Parent: "672fa2f0-4adb-4254-b79a-594cf754fd82"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: /sitecore/content/PLAY/playwebsite/Presentation/Styles/BasicSite
+SharedFields:
+- ID: "62ca1c9e-71a4-465f-835e-55bda7bb270b"
+  Hint: Type
+  Value: droplist
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "5b02bc8e-548c-4533-89e3-1b07ab210729"
+Languages:
+- Language: "de-DE"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "47996d5c-56f0-4800-9092-fe8e2edf9028"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Basis-Seite"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "19f5a9bc-4eaa-4220-a986-af299b9560d0"
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ed9783d4-0d34-45dc-8508-b44d6ad9c287"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "821f11bb-4552-453e-95ed-7d4e3f11fd7f"
+- Language: "ja-JP"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "47996d5c-56f0-4800-9092-fe8e2edf9028"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 基本サイト
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "19f5a9bc-4eaa-4220-a986-af299b9560d0"
+- Language: "zh-CN"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "47996d5c-56f0-4800-9092-fe8e2edf9028"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 基本站点
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "19f5a9bc-4eaa-4220-a986-af299b9560d0"

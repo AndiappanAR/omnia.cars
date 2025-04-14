@@ -1,0 +1,72 @@
+﻿---
+ID: "45df864c-512d-49e1-ab37-30a4b9afa787"
+Parent: "60e00c06-48e4-4b4d-8962-f1c1320061d6"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: "/sitecore/content/PLAY/playwebsite/Presentation/Styles/BasicSite/Header - Navigation horizontal"
+SharedFields:
+- ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
+  Hint: Value
+  Value: "navigation-horizontal"
+- ID: "69bb49f3-da64-4b0e-abd6-184b832ff6ab"
+  Hint: Allowed Renderings
+  Value: "{1DEB067F-0BB1-405E-94F5-2ABB537A6160}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "5b02bc8e-548c-4533-89e3-1b07ab210729"
+Languages:
+- Language: "de-DE"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "47996d5c-56f0-4800-9092-fe8e2edf9028"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Kopfzeile – Horizontale Navigation
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "19f5a9bc-4eaa-4220-a986-af299b9560d0"
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7dfad2ee-a7fe-4516-88a4-928505744415"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3f781faf-c032-4c64-9e75-86ae16bdd1ad"
+- Language: "ja-JP"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "47996d5c-56f0-4800-9092-fe8e2edf9028"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "ヘッダー-ナビゲーション水平"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "19f5a9bc-4eaa-4220-a986-af299b9560d0"
+- Language: "zh-CN"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "47996d5c-56f0-4800-9092-fe8e2edf9028"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "数据头 - 水平导航"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "19f5a9bc-4eaa-4220-a986-af299b9560d0"
