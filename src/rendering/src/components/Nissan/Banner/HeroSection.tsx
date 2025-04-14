@@ -8,7 +8,7 @@ import {
   withDatasourceCheck,
 } from '@sitecore-jss/sitecore-jss-nextjs';
 import { ComponentProps } from 'lib/component-props';
-import { isCdpConfigured } from '../../services/CdpService';
+import { isCdpConfigured } from '../../../services/CdpService';
 
 export type HeroProps = ComponentProps & {
   fields: {
@@ -43,6 +43,9 @@ const HeroSection = (props: HeroProps): JSX.Element => {
         <div className="hero-container">
           <div className="container-content">
             <div className="content-text">
+              <p>
+                <strong>Custom Component</strong>
+              </p>
               <Text field={props.fields.Slogan} tag="p" className="slogan" />
               <Text field={props.fields.Eyebrow} tag="h1" className="expo" />
               <Text field={props.fields.Title} tag="h3" className="title" />

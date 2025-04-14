@@ -70,6 +70,7 @@ const Layout = ({ layoutData, headLinks }: LayoutProps): JSX.Element => {
           <link rel={headLink.rel} key={headLink.href} href={headLink.href} />
         ))}
         <meta name="robots" content="noindex" />
+        <meta name="custom-meta" content="nissan-test" />
       </Head>
 
       {/* root placeholder for the app, which we add components to using route data */}

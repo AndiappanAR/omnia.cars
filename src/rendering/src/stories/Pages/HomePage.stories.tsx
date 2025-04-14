@@ -3,7 +3,7 @@ import { StoryFn, Meta } from '@storybook/react';
 
 import HeaderContent from '../../components/Navigation/HeaderContent';
 import HeaderCdpMessageBar from '../../components/HeaderCdpMessageBar';
-import { Default as HeroSection, HeroProps } from '../../components/PageContent/HeroSection';
+import { Default as HeroSection, HeroProps } from '../../components/Nissan/Banner/HeroSection';
 import {
   Default as ThreeColumnsSection,
   ThreeColumnsSectionProps,

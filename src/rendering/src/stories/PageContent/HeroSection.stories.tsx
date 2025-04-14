@@ -1,6 +1,6 @@
 import { Meta } from '@storybook/react';
 
-import { Default as HeroSection, HeroProps } from '../../components/PageContent/HeroSection';
+import { Default as HeroSection, HeroProps } from '../../components/Nissan/Banner/HeroSection';
 
 export default {
   title: 'Components/PageContent/HeroSection',
