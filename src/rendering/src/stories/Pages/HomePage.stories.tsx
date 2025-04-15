@@ -7,7 +7,7 @@ import { Default as HeroSection, HeroProps } from '../../components/Nissan/Banne
 import {
   Default as ThreeColumnsSection,
   ThreeColumnsSectionProps,
-} from '../../components/PageContent/ThreeColumnsSection';
+} from '../../components/Nissan/Banner/ThreeColumnsSection';
 import {
   Default as SelectedSponsorsGrid,
   SelectedSponsorsGridProps,

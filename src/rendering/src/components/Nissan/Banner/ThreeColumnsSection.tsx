@@ -34,6 +34,7 @@ const ThreeColumnsSection = ({ fields, params }: ThreeColumnsSectionProps): JSX.
         <h2 className="section-content-title">
           <Text field={fields.Title} />
         </h2>
+        <p>Custom Component</p>
         <p className="section-content-p">
           <Text field={fields.Subtitle} />
         </p>

@@ -3,7 +3,7 @@ import { Meta } from '@storybook/react';
 import {
   Default as ThreeColumnsSection,
   ThreeColumnsSectionProps,
-} from '../../components/PageContent/ThreeColumnsSection';
+} from '../../components/Nissan/Banner/ThreeColumnsSection';
 
 export default {
   title: 'Components/PageContent/ThreeColumnsSection',

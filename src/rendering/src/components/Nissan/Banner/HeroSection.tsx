@@ -40,9 +40,6 @@ const HeroSection = (props: HeroProps): JSX.Element => {
         <div className="hero-background">
           <Image field={props.fields.Hero} />
         </div>
-        <p>
-          <strong>Custom Component-</strong>
-        </p>
         <div className="hero-container">
           <div className="container-content">
             <div className="content-text">
