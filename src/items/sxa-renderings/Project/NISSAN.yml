@@ -1,0 +1,13 @@
+﻿---
+ID: "65cd495f-8c43-4a76-a0e4-a6cc88754138"
+Parent: "1995806f-0a84-42b5-93b0-88f0e2ff872c"
+Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
+Path: /sitecore/layout/Renderings/Project/NISSAN
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b1cf57b2-5d74-4db8-9099-8e7c00dacdf2"
