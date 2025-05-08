@@ -1,0 +1,24 @@
+﻿---
+ID: "ccf9d647-6107-4836-b104-fe766215e303"
+Parent: "5cf018b9-b2c7-4778-aac0-b85b264d2b76"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/PLAY/playwebsite/home/cars/Become a sponsor/Data
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "62059b11-121e-40e0-a7c3-eab82893525a"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5f4ceeb4-ddee-446e-b5df-f0b39885f872"

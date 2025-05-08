@@ -1,0 +1,72 @@
+﻿---
+ID: "336b1a7e-1518-46ab-a900-22443209d257"
+Parent: "39d879d1-e41a-4575-83ac-24b433966905"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Project/NISSAN/Navigation/Footer
+SharedFields:
+- ID: "003a72cd-4cd6-4392-9862-41d4159929cd"
+  Hint: Data source
+  Value: /sitecore/content/PLAY/playwebsite/Data/Navigation/Footer
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: Footer
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: edgeicons/32x32/footer.png
+- ID: "17bb046a-a32a-41b3-8315-81217947611b"
+  Hint: ComponentQuery
+  Value: |
+    query ($language: String!) {
+      item(path: "{4790380A-3F0C-443A-A954-269ECB2D5566}" language: $language) {
+        id
+        path
+        ... on SiteConfiguration {
+          footerLogo {
+            jsonValue
+            alt
+          }
+        }
+      }
+      links : item(path: "{ECDD5437-0848-47BE-ACCD-04BB1D631C94}", language: $language) {
+        displayName
+        children {
+          results {
+            displayName
+            children {
+              results {
+                displayName
+                icon: field(name: "Fontawesome Icon Name") {
+                  value
+                }
+                title: field(name: "Title") {
+                  value
+                }
+                field(name: "Link") {
+                  ... on LinkField {
+                    jsonValue
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+- ID: "a77e8568-1ab3-44f1-a664-b7c37ec7810d"
+  Hint: Parameters Template
+  Value: "{3C13BF6C-32DD-4F40-BCC9-208B47F21BB5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f660da49-a598-4414-8cf5-1e13cde4196d"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1b6b0095-ed19-4cba-8101-1de44b21d2b3"

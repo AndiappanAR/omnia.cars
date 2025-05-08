@@ -1,0 +1,32 @@
+﻿---
+ID: "accfe90e-065b-49c0-b029-8961d7cb0d25"
+Parent: "e3e9d787-ee18-43a1-9579-33c3022dd0ae"
+Template: "1f476f1c-822a-5a88-8f7e-2431b77d1b70"
+Path: /sitecore/content/PLAY/playwebsite/home/cars2/Data/All speakers Section
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "05607296-e17f-567f-898f-46bb9665d619"
+      Hint: title
+      Value: Other event speakers
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3dcf3e1a-20e6-4e9d-9a0a-023b098cd89e"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "05607296-e17f-567f-898f-46bb9665d619"
+      Hint: title
+      Value: Other event speakers
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fa90575e-c5da-4856-a7ce-703b7cb2f727"

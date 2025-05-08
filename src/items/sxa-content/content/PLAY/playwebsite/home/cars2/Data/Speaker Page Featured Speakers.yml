@@ -1,0 +1,20 @@
+﻿---
+ID: "f2fb615f-d2ca-415a-addf-3beec42a57b8"
+Parent: "e3e9d787-ee18-43a1-9579-33c3022dd0ae"
+Template: "fdf43aad-c5d1-54e4-9909-59bfddc86689"
+Path: /sitecore/content/PLAY/playwebsite/home/cars2/Data/Speaker Page Featured Speakers
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "23a5af42-9fb2-412d-b828-73d63d6c6d10"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6286f1d0-0064-4f17-9ac3-99d0892621c6"

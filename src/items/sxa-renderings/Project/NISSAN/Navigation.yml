@@ -1,0 +1,13 @@
+﻿---
+ID: "39d879d1-e41a-4575-83ac-24b433966905"
+Parent: "65cd495f-8c43-4a76-a0e4-a6cc88754138"
+Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
+Path: /sitecore/layout/Renderings/Project/NISSAN/Navigation
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4647e532-f787-4c5b-8af5-c83989e7e750"
